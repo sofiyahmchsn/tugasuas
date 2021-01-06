@@ -1,0 +1,14 @@
+.btn-info{
+    color: #6F6F6F;
+    width: 50%;
+    letter-spacing: 2px;
+    background: transparent;
+    transition: all 0,5s ease-in-out;
+}
+.btn-info:hover{
+    transform: scale(1.05);
+}
+.icn{
+    color: #6F6F6F;
+    font-size: 17px;  
+}
